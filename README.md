@@ -1,6 +1,8 @@
 # Tugas 10 PBO
 Nama  : Muhammad Irsyad Habibi
+
 NRP  : 5025221150
+
 Kelas  : PBO A
 
 # Class SalesItem
